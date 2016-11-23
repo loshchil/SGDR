@@ -16,5 +16,11 @@ The best reported results in the paper are by SGDR with T0 = 10 and Tmult = 2
 **3.74%** on **CIFAR-10** (median of 2 runs of iscenario #10)  
 **18.70%** on **CIFAR-100** (median of 2 runs of iscenario #20) 
 
+Ensembles of WRN-28-10 models trained by SGDR show  
+**3.14%** on **CIFAR-10**  
+**16.21%** on **CIFAR-100**  
+The latest version of the paper is available at 
+https://openreview.net/pdf?id=Skq89Scxx
+
 
 
